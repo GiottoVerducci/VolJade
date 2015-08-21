@@ -1,0 +1,15 @@
+{
+  "name": "voljade",
+  "version": "0.0.0",
+  "description": "voljade",
+  "main": "app.js",
+  "author": {
+    "name": "vripoll",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
